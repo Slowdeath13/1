@@ -1,49 +1,49 @@
-#EXTM3U 
-#EXTINF:-1 tvg-name="CMC TV" tvg-logo="https://i.imgur.com/Fh2vawT.png" tvg-id="CMCTV.hr" group-title="Croatia",CMC TV
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy96j8dcw3q11nxr5"
+#EXTINF:-1 tvg-id="CMC(src01).hr" tvg-name="CMC TV" tvg-logo="https://i.imgur.com/Fh2vawT.png" group-title="Croatia",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF: -1 tvg-logo="https://trend.com.hr/wp-content/uploads/2020/03/trend_tv.png",Trend Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trend Tv" tvg-logo="https://trend.com.hr/wp-content/uploads/2020/03/trend_tv.png" group-title="(no group)",Trend Tv
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
-#EXTINF: -1 tvg-id="SLAVONSKATV" tvg-name="Slavonska TV" tvg-logo="http://phoenixrebornbuild.com.hr/media/com_myiptv/logos/SlavonskaTV-HR.png" , SLAVONSKA TV 
+#EXTINF:-1 tvg-id="SlavonskaTV(src01).hr" tvg-name="Slavonska TV" tvg-logo="http://phoenixrebornbuild.com.hr/media/com_myiptv/logos/SlavonskaTV-HR.png" group-title="(no group)",Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="n1.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" ,N1 HRVATSKA (576p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 HRVATSKA (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="(no group)",N1 HRVATSKA (576p)
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="OTV.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://www.otv.hr/wp-content/uploads/2020/10/cropped-otv_plavi-logo_PNG_kocka-1-192x192.png" group-title="",OTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OTV (720p) [Not 24/7]" tvg-logo="https://www.otv.hr/wp-content/uploads/2020/10/cropped-otv_plavi-logo_PNG_kocka-1-192x192.png" group-title="(no group)",OTV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
-#EXTINF: -1 tvg-name="Fashion TV" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/fashion_tv.png" , Fashion TV
+#EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/fashion_tv.png" group-title="(no group)",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF: -1 tvg-name="TBD" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tbd.png" , TBD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBD" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tbd.png" group-title="(no group)",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF: -1 tvg-name="Automoto TV" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/bg-100-auto-moto-tv.jpg" , Automoto TV
+#EXTINF:-1 tvg-id="Automoto(French).de" tvg-name="Automoto TV" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/bg-100-auto-moto-tv.jpg" group-title="(no group)",Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF: -1 tvg-name="KRONEHIT TV HD" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kronehit_tv_hd.png" , KRONEHIT TV HD
+#EXTINF:-1 tvg-id="KRONEHIT.at" tvg-name="KRONEHIT TV HD" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kronehit_tv_hd.png" group-title="(no group)",KRONEHIT TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" ,RTL
+#EXTINF:-1 tvg-id="RTLHrvatska(src01).si" tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" group-title="(no group)",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-name="RTL2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" ,RTL2
+#EXTINF:-1 tvg-id="RTL2Hrvatska(src01).si" tvg-name="RTL2" tvg-logo="https://i.imgur.com/dQLaylJ.png" group-title="(no group)",RTL2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" tvg-id="RTLKockica.hr" ,RTL Kockica
+#EXTINF:-1 tvg-id="RTLKockica(src01).hr" tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" group-title="(no group)",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.qa" ,Al Jazeera Balkans
+#EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" group-title="(no group)",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF: -1 tvg-name="Pluto TV" tvg-logo="https://phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pluto_tv.png" , Pluto TV
+#EXTINF:-1 tvg-id="PlutoTV(TiVo).uk" tvg-name="Pluto TV" tvg-logo="https://phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pluto_tv.png" group-title="(no group)",Pluto TV
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 tvg-id="RockRoll.rs" tvg-logo="https://i.imgur.com/sy1BDNK.png" ,Muzzik Rock&Roll 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Rock&Roll" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="(no group)",Muzzik Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.imgur.com/tEzppGC.png" ,Worldwide Muzzik (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Worldwide Muzzik (720p)" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="(no group)",Worldwide Muzzik (720p)
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",NickToons (720p)
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" ,Fox Sports 1
+#EXTINF:-1 tvg-id="FOXSports1.mx" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="(no group)",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" ,Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="(no group)",Fox Sports 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/sA5V39D.png",MLB Network
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="(no group)",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70's" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80's" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NowRock.uk" tvg-name="NOW Rock" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV (1080p)" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
