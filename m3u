@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy96j8dcw3q11nxr5"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ostalo",Fireplace
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://flyclipart.com/thumb2/dd-fire-fire-fireplace-icon-with-png-and-vector-format-for-free-761770.png" group-title="Ostalo",Fireplace
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727887070/ei/fiL9ZvjLDIiJ6dsPvuyYoQ8/ip/89.164.128.136/id/soSXsuGVkqc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54Mbxblwv2pNmqtRREcWeJBikttHCrHszg-lv5pFASchqkOSEnAC0JiiTed_ZjvSLrKzyIo2_w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKAM_QnpET3-DLSJ4mEbOb9YrvE9paxUyJ9FWyHH2PzQAiBe4MD8n4urSSnEE0hFv4jAwUINhW0YGIO5rdmKnkM-aQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" group-title="Croatia",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
