@@ -40,6 +40,8 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="CN" tvg-name="CN" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" group-title="Kids",Cartoon Network
+http://92.114.85.72:8000/play/a07h
 #EXTINF:-1 tvg-id="KRONEHIT.at" tvg-name="KRONEHIT TV HD" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kronehit_tv_hd.png" group-title="Music",KRONEHIT TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzzik Rock&Roll" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Music",Muzzik Rock&Roll
@@ -71,11 +73,11 @@ http://live.antenazagreb.hr:8019/;
 #EXTINF:-1 radio="true" ,Antena Zagreb Dance tvg-logo="https://freeweb.t-2.net/itak/LOGO/Antena_Zagreb.png" group-title="Radio", Antena Zagreb Dance
 http://live.antenazagreb.hr:8015/;
 #EXTINF:-1 tvg-id="RTBTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKI PROGRAMI" group-title="Radio",Banovina
-http://188.40.133.165:9998/listen.pls?sid=1
+http://stream1.radio-banovina.hr:8008/;
 #EXTINF:-1 tvg-id="RTBTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKI PROGRAMI" group-title="Radio",Banovina Hrvatska Tv
 http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKI PROGRAMI" group-title="Radio",Banovina TURBO
-http://188.40.133.165:8022/listen.pls?sid=1
+https://audio.radio-banovina.hr:7010/stream
 #EXTINF: -1 radio="true","Narodni radio" tvg-logo="https://phoenixrebornbuild.com.hr/media/com_myiptv/logos/narodni-radio.png" group-title="Radio" , Narodni radio
 http://live.narodni.hr:8059/;
 #EXTINF: -1 radio="true"," Narodni Radio Goga" tvg-logo="https://phoenixrebornbuild.com.hr/media/com_myiptv/logos/2359-logo1420817641.png" group-title="Radio",  Narodni Radio Goga
