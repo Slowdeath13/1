@@ -1,39 +1,14 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy96j8dcw3q11nxr5"
-#EXTINF:-1 tvg-id="AlJazeeraBalkans(src01).hr" tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" group-title="Croatia",Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+
 #EXTINF:-1 tvg-id="N1Croatia(src01).hr" tvg-name="N1 HRVATSKA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="Croatia",N1 HRVATSKA
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OTV" tvg-logo="https://www.otv.hr/wp-content/uploads/2020/10/cropped-otv_plavi-logo_PNG_kocka-1-192x192.png" group-title="Croatia",OTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
-#EXTINF:-1 tvg-id="RTLTELEVIZIJA(src01).hr" tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" group-title="Croatia",RTL
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLKockica(src01).hr" tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" group-title="Croatia",RTL Kockica
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL2(src01).hr" tvg-name="RTL2" tvg-logo="https://i.imgur.com/dQLaylJ.png" group-title="Croatia",RTL2
-https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #EXTINF:-1 tvg-id="SlavonskaTV(src01).hr" tvg-name="Slavonska TV" tvg-logo="http://phoenixrebornbuild.com.hr/media/com_myiptv/logos/SlavonskaTV-HR.png" group-title="Croatia",Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trend Tv" tvg-logo="https://trend.com.hr/wp-content/uploads/2020/03/trend_tv.png" group-title="Croatia",Trend Tv
-http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="CMC(src01).hr" tvg-name="CMC TV" tvg-logo="https://i.imgur.com/Fh2vawT.png" group-title="Croatia",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="MGMplus(East).us" tvg-name="MGM+ East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/MGM-Plus-2023.png/revision/latest/scale-to-width-down/250?cb=20220929144324" group-title="Ostalo",MGM+ East
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="MGM+ Marquee" tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="Ostalo",MGM+ Marquee
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" tvg-name="Syfy East" tvg-logo="https://seeklogo.com/images/S/syfy-logo-243F5B37C0-seeklogo.com.png" group-title="Ostalo",Syfy East
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="FashionTV(src01).uk" tvg-name="Fashion TV" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/fashion_tv.png" group-title="Ostalo",Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBD" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/tbd.png" group-title="Ostalo",TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1 tvg-id="Pink.rs" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Ostalo",Pink
-https://live.rednet.rs/providus/pink1.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="CN" tvg-name="CN" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" group-title="Kids",Cartoon Network
-http://92.114.85.72:8000/play/a07h
 #EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="Kids",Bravo! Kids TV 
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
 
